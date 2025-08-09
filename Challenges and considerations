@@ -1,0 +1,2 @@
+Ponder operates within Farcaster’s storage constraints, where users are limited to 5,000 casts per storage unit (e.g., $7 for a year). Prediction-related casts likely count toward this limit, requiring users to manage their storage or purchase additional units. Additionally, Farcaster’s timestamp system restricts messages to within 15 minutes of the current time, ensuring real-time relevance but limiting scheduling flexibility. These constraints ensure a sustainable network but may require users to plan their Ponder participation strategically.
+
